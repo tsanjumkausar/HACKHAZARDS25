@@ -1,0 +1,20 @@
+# Required Libraries for the LlaMA-ViSION Project
+
+# streamlit: A framework for building web applications in Python, particularly useful for creating data-driven applications and dashboards.
+streamlit
+
+# groq: A query language for accessing and manipulating data, often used in conjunction with databases or APIs.
+groq
+
+# langchain: A library designed for building applications with language models, facilitating the integration of natural language processing capabilities.
+langchain
+
+# langchain_groq: An extension or integration of the Langchain library with Groq, enabling the use of Groq queries within Langchain applications.
+langchain_groq
+
+# python-dotenv: A library for loading environment variables from a .env file, which is useful for managing configuration settings and sensitive information.
+python-dotenv
+
+# Pillow: A Python Imaging Library (PIL) fork that adds image processing capabilities, allowing for opening, manipulating, and saving various image file formats.
+Pillow
+
